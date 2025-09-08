@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/BttCrtd/Waouh.git",
+  "homepage": "https://github.com/BttCrtd/Axopen.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
