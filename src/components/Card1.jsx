@@ -2,8 +2,7 @@ function Card1() {
   return (
     <section>
       <h1>
-        Bonjour la team{' '}
-        <strong style={{ color: '#867EF1' }}>Solead Agency</strong> !
+        Bonjour la team <strong style={{ color: '#8B5CF6' }}>Axopen</strong> !
       </h1>
       <p>
         Je ne vais pas vous sortir la lettre de motivation classique, parce

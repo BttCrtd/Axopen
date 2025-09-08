@@ -3,7 +3,7 @@ import photoProfil from '../assets/profil.jpg';
 function Card2() {
   const openCV = () => {
     window.open(
-      '/SoleadAgency/CV-BaptisteCourtadon-AlternanceDeveloppeurWeb.pdf',
+      '/Axopen/CV-BaptisteCourtadon-AlternanceDeveloppeurWeb.pdf',
       '_blank'
     );
   };
@@ -12,11 +12,11 @@ function Card2() {
       <h1>Moi c'est Baptiste Courtadon</h1>
       <div className="presentation">
         <div className="bubble">
-          <img src={photoProfil} alt="Photo de profil d'un beau gosse" />
+          <img src={photoProfil} alt="Photo de profil de Baptiste Courtadon" />
         </div>
         <div className="presentationText">
           <p>J'ai 25 ans et je vis à Clermont-Ferrand.</p>
-          <p>Je suis développeur web en recherche d’alternance.</p>
+          <p>Je suis développeur web en recherche de nouveaux défis.</p>
           <p>
             Si vous cherchez quelqu’un de motivé, curieux et passionné par le
             code, vous êtes au bon endroit.

@@ -3,8 +3,9 @@ function Card9() {
     <section>
       <h1>Mon super-pouvoir :</h1>
       <p>
-        Trouver des solutions. Pour moi, rien n’est impossible tant qu’on garde
-        une bonne dose de créativité et de persévérance.
+        Apprendre en continu et transformer chaque obstacle en solution. Pour
+        moi, rien n’est impossible : avec créativité, persévérance et curiosité,
+        il existe toujours une solution.
       </p>
     </section>
   );

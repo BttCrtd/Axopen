@@ -9,13 +9,14 @@ function Card8() {
         adopter une véritable posture professionnelle.
       </p>
       <p>
-        Votre agence, spécialisée dans la création de sites internet et de
-        solutions métiers, correspond parfaitement à mes ambitions.
+        Vous proposez un environnement où je pourrai monter en compétences sur
+        des projets variés, bénéficier de l’expérience de développeurs confirmés
+        et contribuer activement à vos projets.
       </p>
       <p>
-        L’opportunité de travailler sur des projets variés, allant du
-        développement de maquettes à l’intégration de modules fonctionnels, me
-        motive particulièrement.
+        Intégrer votre entreprise représenterait pour moi l’opportunité d’allier
+        passion, apprentissage et collaboration, tout en participant à des
+        projets concrets et stimulants.
       </p>
     </section>
   );
